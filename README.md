@@ -2,10 +2,14 @@
 
 A custom Python script that takes any image and redraws it using thousands of characters. I built this because generic apps are boring. I wanted a way to turn a photo into something more meaningful—using words instead of just pixels. Step by step, logic by logic, para eyyable ang result! 🤙
 
-![Result Example](Video Project.mp4) 
+![Result Example][(Video Project.mp4) ](https://github.com/user-attachments/assets/2cd0ea5e-0239-466c-9e3c-b29b55392267)
 
 ## ⚡ How It Works
 1. **Scans** the image pixel by pixel (X and Y coordinates).
+
+
+
+
 2. **Calculates** brightness to determine the shading.
 3. **Replaces** pixels with looping text characters (e.g., "I Love You").
 4. **Generates** a high-resolution text portrait.
