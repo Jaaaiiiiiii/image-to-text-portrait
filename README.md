@@ -1,4 +1,4 @@
-# Python Text Portrait Generator 🎨
+# Python Text Portrait Generator 
 
 A custom Python script that takes any image and redraws it using thousands of characters. I built this because generic apps are boring. I wanted a way to turn a photo into something more meaningful—using words instead of just pixels. Step by step, logic by logic, para eyyable ang result! 🤙
 
@@ -21,8 +21,8 @@ A custom Python script that takes any image and redraws it using thousands of ch
 ## 🚀 How to Run
 1. Place your image in the same folder.
 2. Rename your image to `sample.jpg` OR change the `IMAGE_PATH` variable in the code.
-3. Run the script:
-   `python drawing.py`
+3. Run the script
+   
 
 ## 📝 Roadmap
 - [x] V1.0: Basic Black & White Rendering
