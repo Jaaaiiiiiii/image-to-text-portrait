@@ -2,7 +2,7 @@
 
 A custom Python script that takes any image and redraws it using thousands of characters. I built this because generic apps are boring. I wanted a way to turn a photo into something more meaningful—using words instead of just pixels. Step by step, logic by logic, para eyyable ang result! 🤙
 
-![Result Example](sample_result.jpg) 
+![Result Example](Video Project.mp4) 
 
 ## ⚡ How It Works
 1. **Scans** the image pixel by pixel (X and Y coordinates).
