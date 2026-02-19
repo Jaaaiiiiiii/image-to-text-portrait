@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 # Importing tools.
 
-IMAGE_PATH = r"C:\Users\User\OneDrive\Desktop\python\cat.jpg"
+IMAGE_PATH = r"YOUR FILE HERE"
 # The image we want to convert. 
 # (ADDITIONAL TIP: U CAN "COPY AS PATH" YOUR FILE FOR EASY LOCATING)
 # Right-click your image file -> "Copy as path" -> Paste it!
